@@ -9,7 +9,7 @@
 
 | Nombre        | Matrícula  |
 |---------------|------------|
-| Romel Rojas   | —          |
+| Romel Rojas   | 2025-1022  |
 
 ---
 
@@ -27,12 +27,4 @@
 
 ---
 
-## Cómo ejecutar
-
-Cada archivo es un programa independiente en C#. Puedes compilar y ejecutar cualquiera con:
-
-```bash
-dotnet-script "Ejercicio 1.cs"
-```
-
-O abriendo el proyecto en Visual Studio / Rider y ejecutando el archivo deseado.
+## Gracias por ver. :)
